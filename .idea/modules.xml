@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OtaSdk.iml" filepath="$PROJECT_DIR$/OtaSdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/otademo/otademo.iml" filepath="$PROJECT_DIR$/otademo/otademo.iml" />
     </modules>
   </component>
 </project>
