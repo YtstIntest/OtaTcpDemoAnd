@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:8:5-13:19
+	android:supportsRtl
+		ADDED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml:9:9-35
+uses-sdk
+INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Work/OtaSdk/app/src/main/AndroidManifest.xml
